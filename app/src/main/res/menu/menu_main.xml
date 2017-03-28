@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="universalradioapp.ddroidtechno.googleadddemo.MainActivity">
+    <item
+        android:id="@+id/nat_ads_adv"
+        android:orderInCategory="100"
+        android:title="@string/nat_ads_adv"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/nat_ads_exp"
+        android:orderInCategory="100"
+        android:title="@string/nat_ads_exp"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/revarded_video"
+        android:orderInCategory="100"
+        android:title="@string/revarded_video"
+        app:showAsAction="never" />
+
+</menu>
